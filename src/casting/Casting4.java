@@ -18,6 +18,5 @@ public class Casting4 {
 		int b = 2;
 		double result = (double) a / b;
 		System.out.println("result = " + result);
-		
 	}
 }
